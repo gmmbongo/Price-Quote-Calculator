@@ -4,12 +4,19 @@ Smith's Auto Repairs Price Quote Calculator is a C# application designed to simp
 
 ✨ Features
 📝 User Input Fields
+
 👤 Client's Name
+
 🚗 Car Type
+
 ⏱️ Hours of Labor Required
+
 🔧 Cost of Parts
+
 👷 Number of Staff Assigned
+
 👵 Senior Citizen Status (1 for Yes, 0 for No)
+
 💰 Discount Handling
 
 Senior citizens (enter 1) receive a discount on the total repair cost.
